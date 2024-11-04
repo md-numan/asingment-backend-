@@ -1,0 +1,35 @@
+1. Node is initiate node  command[npm init --y],
+2. Package.json
+3. Express js backend with packages
+    -npm i express
+    -npm i cookie-parser
+    -npm i cors
+    -npm i express-rate-limit
+    -npm i helmet
+    -npm i hpp
+    -npm i jsonwebtoken
+    -npm i mongoose
+    -npm i nodemailer
+    -npm i nodemon
+    -npm i express-fileupload
+
+
+4. file folder structure
+     -app
+        -config
+           --config.js
+        -Controller
+           --blogController
+        -middleware
+          --athMiddleware.js
+        -models
+        -utility
+          --emailUtility.js
+          --TokenUtility.js
+          --ValidationUtility.js
+          --MoveFile.js
+        -routes
+          --blog.js
+        storage
+  set  deb
+
